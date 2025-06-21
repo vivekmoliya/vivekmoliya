@@ -66,7 +66,7 @@ A modern portfolio made using Vite + TailwindCSS + smooth animations.
 
 ## 🤝 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/vivek-patel)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/Vivek-Patel)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/vivekmoliya)  
 📩 [Gmail](mailto:vivekmoliya5124@gmail.com)
 
