@@ -35,8 +35,8 @@
 
 ## 📂 Featured Projects
 
-### 🌐 [Mega Blog App](https://github.com/vivekmoliya/MegaBlog)
-> A full-featured blog built with React, Tailwind, and Firebase. Supports dark mode, markdown, and user auth.
+### 🌐 [Gujarati-Sign-Language-Recognition-App](https://github.com/vivekmoliya/MegaBlog)
+> Real-time Gujarati Sign Language recognition using webcam, Mediapipe, and TensorFlow.
 
 ### 💱 [Currency Converter](https://github.com/vivekmoliya/CurrencyConvertor)
 > Real-time currency converter with clean design, built using React + APIs.
