@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vivek Moliya</h1>
-<h3 align="center">Frontend Developer ⚛️ | ReactJS Enthusiast 💙 | Lifelong Learner 📚</h3>
+<h3 align="center">⚛️ Frontend Developer | 💙 React Enthusiast | 🌱 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=61DAFB&center=true&vCenter=true&width=520&height=45&lines=Hey+there!+I'm+Vivek+Moliya+%F0%9F%91%8B;ReactJS+Developer+%7C+Frontend+Engineer;Crafting+clean+UI+with+TailwindCSS+%F0%9F%A7%9D;Building+real-world+projects+with+Vite+%2B+Firebase;Learning+Next.js%2C+Framer+Motion+%26+ShadCN+UI;Let%27s+build+something+awesome+%F0%9F%92%A1" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=FF6F61&center=true&vCenter=true&multiline=true&width=600&height=70&lines=✨+ReactJS+Developer+%7C+Frontend+Engineer;🎯+Focused+on+clean+%26+modern+UI+UX+design;🚀+Vite%2C+Tailwind%2C+Firebase+%26+Next.js+fan;🛠️+Building+real-world+projects+daily;🤝+Open+to+collaboration+%26+internships" />
 </p>
 
 ---
