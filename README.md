@@ -14,7 +14,7 @@
 - 🧩 Working with tools like: `React`, `Vite`, `TailwindCSS`, `Redux`, `React Router`
 - 💡 Exploring: `Next.js`, `Framer Motion`, and `ShadCN UI`
 - 💬 Ask me about React patterns, clean UI, or how to debug fast!
-- 📫 Reach me at: [vivekmoliya@email.com](mailto:vivekmoliya@email.com)
+- 📫 Reach me at: [vivekmoliya5124@gmail.com](mailto:vivekmoliya5124@gmail.com)
 
 ---
 
@@ -66,7 +66,7 @@ A modern portfolio made using Vite + TailwindCSS + smooth animations.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/vivek-moliya)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/vivekmoliya)  
-📩 [Email](mailto:vivekmoliya@email.com)
+📩 [Gmail](mailto:vivekmoliya5124@gmail.com)
 
 ---
 
