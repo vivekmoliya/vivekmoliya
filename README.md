@@ -2,8 +2,9 @@
 <h3 align="center">⚛️ Frontend Developer | 💙 React Enthusiast | 🌱 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=FF6F61&center=true&vCenter=true&multiline=true&width=600&height=70&lines=✨+ReactJS+Developer+%7C+Frontend+Engineer;🎯+Focused+on+clean+%26+modern+UI+UX+design;🚀+Vite%2C+Tailwind%2C+Firebase+%26+Next.js+fan;🛠️+Building+real-world+projects+daily;🤝+Open+to+collaboration+%26+internships" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=61DAFB&center=true&vCenter=true&width=600&lines=ReactJS+Developer+%7C+Frontend+Engineer;Focused+on+clean+and+modern+UI+UX;Vite%2C+Tailwind%2C+Firebase+%2B+Next.js;Building+real-world+projects+daily;Open+to+collaboration+and+internships" />
 </p>
+
 ---
 
 ## 🧑‍💻 About Me
