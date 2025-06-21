@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer | ReactJS Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&height=45&lines=Hi+%F0%9F%91%8B%2C+I%27m+Vivek+Moliya;Frontend+Engineer+who+loves+ReactJS;Building+clean+UIs+with+TailwindCSS;Learning+Next.js+%26+Framer+Motion;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&height=45&lines=Hi+%F0%9F%91%8B%2C+I%27m+Vivek+Moliya;Frontend+Engineer+who+loves+ReactJS;Building+clean+UIs;Learning+Next.js+%26+Framer+Motion;" />
 </p>
 
 
